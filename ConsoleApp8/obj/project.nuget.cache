@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWnBBFV8fCA4huVJZ2WAAfGvOp4wyL73TGUuK3+Yk4QwcMK/0yC1+I4XFfNz8GDTR9r2Br9fTc8N3PtX9Bxanw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reboot\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reboot\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Reboot\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
